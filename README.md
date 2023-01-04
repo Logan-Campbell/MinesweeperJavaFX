@@ -14,6 +14,6 @@ The game also keeps track of High scores (time to win)
 
 ## Screeshots
 Win on an easy game.\
-[easy game win](https://imgur.com/8sSrfpq.png)\
+<img src="https://i.imgur.com/8sSrfpq.png" alt="easy game win"/>\
 Lose on an expert game.\
-[Expert game lose](https://imgur.com/KmTtp30)
+<img src="https://i.imgur.com/KmTtp30.png" alt="Expert game lose"/>\
