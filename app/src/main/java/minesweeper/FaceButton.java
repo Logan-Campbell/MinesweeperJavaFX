@@ -1,4 +1,4 @@
-package org.openjfx;
+package minesweeper;
 
 import javafx.scene.control.Button;
 import javafx.scene.image.ImageView;

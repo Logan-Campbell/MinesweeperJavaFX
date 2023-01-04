@@ -1,4 +1,4 @@
-package org.openjfx;
+package minesweeper;
 
 import javafx.geometry.Insets;
 import javafx.scene.control.Button;

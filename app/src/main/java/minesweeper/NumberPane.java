@@ -1,4 +1,4 @@
-package org.openjfx;
+package minesweeper;
 
 import javafx.scene.image.Image;
 import javafx.scene.image.ImageView;

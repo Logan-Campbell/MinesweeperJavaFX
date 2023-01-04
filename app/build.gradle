@@ -1,4 +1,5 @@
 plugins {
+  id 'java'
   id 'application'
   id 'org.openjfx.javafxplugin' version '0.0.9'
 }
@@ -10,9 +11,15 @@ repositories {
 dependencies {
 }
 
+jar {
+  manifest {
+    attributes 'Main-Class': 'minesweeper.App'
+  }
+}
+
 javafx {
-    version = "19"
+    version = "13"
     modules = [ 'javafx.controls', 'javafx.fxml' ]
 }
 
-mainClassName = 'org.openjfx.App'
+mainClassName = 'minesweeper.App'

@@ -1,4 +1,4 @@
-package org.openjfx;
+package minesweeper;
 
 public class Difficulty {
 	private int width;

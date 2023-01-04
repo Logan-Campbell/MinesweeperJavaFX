@@ -1,4 +1,4 @@
-package org.openjfx;
+package minesweeper;
 
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -51,7 +51,7 @@ import javafx.util.Duration;
  *		Mark II,110
  *		Evil Mark,353
  */
-public class App extends Application {
+public class Minesweeper extends Application {
 
 	public static void main(String[] args) {
 		launch(args);
