@@ -16,4 +16,4 @@ The game also keeps track of High scores (time to win)
 Win on an easy game.\
 <img src="https://i.imgur.com/8sSrfpq.png" alt="easy game win"/>\
 Lose on an expert game.\
-<img src="https://i.imgur.com/KmTtp30.png" alt="Expert game lose"/>\
+<img src="https://i.imgur.com/KmTtp30.png" alt="Expert game lose"/>
